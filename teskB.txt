@@ -1,0 +1,17 @@
+Name: [devang Mhatre]
+
+Branch: feature2
+
+File: taskB.txt
+
+Contribution:
+
+Added explanation of PR and merge steps.
+
+Contributed to collaboration workflow
+
+documentation.
+
+Helped in preparing the team GitHub structure
+
+Date: 26/11/2025
